@@ -1,0 +1,11 @@
+@@||gov.tw^
+@@||nvidia.com^
+@@||geforce.com^
+@@||cloudflare.com^
+@@||cloudflareaccess.com^
+@@||cloudflareinsights.com^
+@@||icloud.com^
+@@||apple.com^
+@@||netflix.com^
+@@||nflxvideo.net^
+@@||tigerairtw.com^
