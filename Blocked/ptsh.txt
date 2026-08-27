@@ -1,1 +1,1 @@
-||ptsh.ntct.edu.tw^
+||ptsh.ntct.edu.tw^^$dnsrewrite=disable.jw-albert.dev
